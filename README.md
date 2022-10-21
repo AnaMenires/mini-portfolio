@@ -3,6 +3,7 @@
 ## Status: Finalizado ✅
 
 ## Sobre o Projeto
+https://anamenires.github.io/mini-portfolio/
 O Projeto Mini Portfólio foi Desenvolvido durante o evento online Mapa Dev Week. 
 O projeto consiste em montar uma página simples com as principais informações do desenvolvedor usando HTML, CSS e JAVASCRIPT. 
 
